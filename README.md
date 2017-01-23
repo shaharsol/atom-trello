@@ -1,3 +1,4 @@
+[![esos_dev](https://s3.amazonaws.com/dev.pstrs.xcut.me/9.99.svg)](http://localhost:3000/subscribe/shaharsol/atom-trello)
 [![esos_dev](https://s3.amazonaws.com/dev.pstrs.xcut.me/6.99.svg)](http://localhost:3000/subscribe/shaharsol/atom-trello)
 [![esos_dev](https://img.shields.io/badge/Enterprise%20Support%20Available-%2420%2Fm-green.svg)](http://localhost:3000/subscribe/shaharsol/atom-trello)
 # atom-trello package
